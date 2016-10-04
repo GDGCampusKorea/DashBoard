@@ -21,7 +21,10 @@ CS와 관련한 기본적인 지식(자료구조, 알고리즘, 네트워크 등
 [Issues](https://github.com/GDGKoreaCampus/DashBoard/issues) 에서 등록 부탁드립니다!  
 
 ### 진행 중인 커뮤니티 활동 리스트
-[Projects](https://github.com/GDGKoreaCampus/DashBoard/projects) 에서 열람 가능합니다.
+[Projects](https://github.com/GDGKoreaCampus/DashBoard/projects) 에서 열람 및 수정 가능합니다.
+
+### 커뮤니티 활동 내역 정리 및 아카이빙
+[Wiki](https://github.com/GDGKoreaCampus/DashBoard/wiki) 에서 열람 및 수정 가능합니다.
 
 ---
 #### 권리포기각서 : GDG Soongsil University는 독립적인 단체이므로 이곳에서 나오는 의견과 행사의 목적은 Google과는 무관합니다.
