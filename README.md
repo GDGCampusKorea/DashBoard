@@ -28,4 +28,4 @@ CS와 관련한 기본적인 지식(자료구조, 알고리즘, 네트워크 등
 
 ---
 #### 권리포기각서 : GDG Korea Campus는 독립적인 단체이므로 이곳에서 나오는 의견과 행사의 목적은 Google과는 무관합니다.
-#### Disclaimer : GDG Korea Campus is an independent group; our activities and the opinions expressed on this WebSite should in no way be linked to Google, the corporation.
+#### Disclaimer : GDG Korea Campus is an independent group, our activities and the opinions expressed on this WebSite should in no way be linked to Google, the corporation.
