@@ -7,7 +7,6 @@
 GDG Korea Campus는 Google의 지원을 받으며, [Google Developers Group](https://developers.google.com/groups/)의 형태를 따르는 커뮤니티입니다.  
 개발자와 디자이너를 목표로 하는 대학생, 대학원생 이라면 누구나 참여 가능합니다.  
 기본적으로는 온라인을 위주로 스터디, 프로젝트와 같은 형태로 활동하며, 오프라인 활동은 월 단위의 정기 Meetup이나 분기단위의 세미나, 해커톤과 같은 중규모의 오프라인 이벤트를 진행합니다.  
-
 *학교별 연합 동아리의 형태로 활동하는 그룹은 아닙니다.*
 
 #### ● Developer Activity  
