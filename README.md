@@ -18,8 +18,7 @@ CS와 관련한 기본적인 지식(자료구조, 알고리즘, 네트워크 등
 트랜티한 UI/UX 기법에 대하여 스터디를 하며, 배운 내용을 개발자들과 함께 팀프로젝트 형태로 만들어나가며 익힙니다.
 
 ### 커뮤니티 활동 제안
-[Issues](https://github.com/GDGKoreaCampus/DashBoard/issues) 에서 등록 부탁드립니다!  
-내용에 맞는 Label을 꼭 달아주세요!  
+[Issues](https://github.com/GDGKoreaCampus/DashBoard/issues) 에서 등록 부탁드립니다! 내용에 맞는 Label을 꼭 달아주세요!  
 
 ### 진행 중인 커뮤니티 활동 리스트
 [Projects](https://github.com/GDGKoreaCampus/DashBoard/projects) 에서 열람 및 수정 가능합니다.
